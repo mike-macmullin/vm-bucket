@@ -2,8 +2,6 @@
     "_comment": [
         "The command-line compiler functions of VS 2008 C++.",
         "",
-        "To work out fwlink URLs for this manifest, extract baseline.dat from vcs_web.exe (using 7zip).",
-        "",
         "Version is the version reported by cl.exe"
     ],
     "description": "The command-line compiler functions of VS 2008 C++.",
