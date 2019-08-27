@@ -18,8 +18,7 @@
         "https://github.com/mike-macmullin/vm-bucket/releases/download/v1.0/vc_stdx86.msi",
         "https://github.com/mike-macmullin/vm-bucket/releases/download/v1.0/vc_stdamd64.cab",
         "https://github.com/mike-macmullin/vm-bucket/releases/download/v1.0/vc_stdamd64.msi",
-        "https://go.microsoft.com/fwlink/?LinkId=165114&clcid=0x409#/ixpvc.exe.7z",
-        "https://gist.github.com/lukesampson/8208023/raw/987979cbb650438a7b66f283c322bb329e1bf019/visualc2010_install.ps1"
+        "https://gist.githubusercontent.com/mike-macmullin/fcd5c341a88ff6b43b8d3858d100f24b/raw/cf49661f571c2c653f1e16ba1f9322ec16b84118/visualc2008_install.ps1"
     ],
     "hash": [
         "0B64D4C9BAF24E484D39988B96BFD32D63AC5D0B8FB95F921847DF3AC5A479FC",
@@ -28,7 +27,7 @@
         "0AFD33AC7125EBA3E8D7AAB7A685E2F646407DB0964A724887D0218B15F5F602"
     ],
     "installer": {
-        "file": "visualc2010_install.ps1",
+        "file": "visualc2008_install.ps1",
         "args": "$dir"
     },
     "env_add_path": [
