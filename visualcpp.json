@@ -32,7 +32,7 @@
         "Program Files\\Microsoft Visual Studio 9.0\\Common7\\IDE",
         "Program Files\\Microsoft Visual Studio 9.0\\Vc7\\bin",
         "Program Files(64)\\Microsoft Visual Studio 9.0\\Common7\\IDE",
-        "Program Files(64)\\Microsoft Visual Studio 9.0\\Vc7\\bin"
+        "Program Files(64)\\Microsoft Visual Studio 9.0\\Vc7\\bin",
         "Program Files(64)\\Microsoft Visual Studio 9.0\\Vc7\\bin\\amd64"
     ],
     "env_set": {
