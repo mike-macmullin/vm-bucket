@@ -29,11 +29,14 @@
         "args": "$dir"
     },
     "env_add_path": [
-        "Program Files (x86)\\Microsoft Visual Studio 9.0\\Common7\\IDE",
-        "Program Files (x86)\\Microsoft Visual Studio 9.0\\VC\\BIN"
+        "Program Files\\Microsoft Visual Studio 9.0\\Common7\\IDE",
+        "Program Files\\Microsoft Visual Studio 9.0\\Vc7\\bin",
+        "Program Files(64)\\Microsoft Visual Studio 9.0\\Common7\\IDE",
+        "Program Files(64)\\Microsoft Visual Studio 9.0\\Vc7\\bin"
+        "Program Files(64)\\Microsoft Visual Studio 9.0\\Vc7\\bin\\amd64"
     ],
     "env_set": {
-        "INCLUDE": "$dir\\Program Files (x86)\\Microsoft Visual Studio 9.0\\VC\\ATLMFC\\INCLUDE;$dir\\Program Files (x86)\\Microsoft Visual Studio 9.0\\VC\\INCLUDE;$dir\\Program Files\\Microsoft SDKs\\Windows\\v6.1\\include",
-        "LIB": "$dir\\Program Files (x86)\\Microsoft Visual Studio 9.0\\VC\\ATLMFC\\LIB;$dir\\Program Files (x86)\\Microsoft Visual Studio 9.0\\VC\\LIB;$dir\\Program Files\\Microsoft SDKs\\Windows\\v6.1\\lib;"
+        "INCLUDE": "$dir\\Program Files\\Microsoft Visual Studio 9.0\\Vc7\\include;$dir\\Program Files(64)\\Microsoft Visual Studio 9.0\\Vc7\\include;",
+        "LIB": "$dir\\Program Files\\Microsoft Visual Studio 9.0\\Vc7\\lib;$dir\\Program Files(64)\\Microsoft Visual Studio 9.0\\Vc7\\lib;"
     }
 }
