@@ -1,1 +1,25 @@
-
+{
+    "_comment": [
+        "The command-line compiler functions of VS 2019 C#/C++.",
+        "",
+        "Version is the version reported by cl.exe"
+    ],
+    "description": "The command-line compiler functions of VS 2019 C#/C++.",
+    "homepage": "https://www.visualstudio.com",
+    "version": "19.29.30137",
+    "license": {
+        "identifier": "Freeware",
+        "url": "https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/default.aspx"
+    },
+    "url": [
+        "https://github.com/mike-macmullin/vm-bucket/releases/download/v1.0/vs_BuildTools.exe",
+        "https://gist.githubusercontent.com/mike-macmullin/55a456ef8ece9f13e9331a89d77b0001/raw/0d5186823440465f085c8c750b2fbef9683e1fdd/vsv2019_install.ps1"
+    ],
+    "hash": [
+        "460D80AB276046DE2455A4115CC4E2F1E6529C9E6CB99501844ECAFD16C619C4",
+        "E520A8C7C55BDDC6797D90543C64A7036405DC7116316F6D559FD7DC4E3EB567"
+    ],
+    "installer": {
+        "file": "visualc2008_install.ps1",
+    }
+}
