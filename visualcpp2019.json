@@ -23,5 +23,6 @@
     ],
     "installer": {
         "file": "visualc2008_install.ps1",
+        "args": "$dir"
     }
 }
