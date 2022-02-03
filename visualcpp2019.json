@@ -26,6 +26,6 @@
         "args": "$dir"
     },
     "uninstaller": {
-        "script": "start .\vsBuildTools.exe uninstall -wait"
+        "script": "start $dir\vsBuildTools.exe uninstall -wait"
     }
 }
