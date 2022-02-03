@@ -24,5 +24,8 @@
     "installer": {
         "file": "vs2019_install.ps1",
         "args": "$dir"
+    },
+    "uninstaller": {
+        "script": "start .\vsBuildTools.exe uninstall -wait"
     }
 }
