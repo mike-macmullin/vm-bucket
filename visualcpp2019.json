@@ -14,12 +14,12 @@
     "url": [
         "https://github.com/mike-macmullin/vm-bucket/releases/download/v2.0/vs_BuildTools.exe",
         "https://github.com/mike-macmullin/vm-bucket/releases/download/v2.0/prod.vsconfig",
-        "https://gist.githubusercontent.com/mike-macmullin/55a456ef8ece9f13e9331a89d77b0001/raw/7433c396a304630210f6f2d8d433411ab7d46a59/vs2019_install.ps1"
+        "https://gist.githubusercontent.com/mike-macmullin/55a456ef8ece9f13e9331a89d77b0001/raw/475ef9a4ae8fd7f10263159cc68bf518eafc5532/vs2019_install.ps1"
     ],
     "hash": [
         "460D80AB276046DE2455A4115CC4E2F1E6529C9E6CB99501844ECAFD16C619C4",
         "9AB91514EBCA5AA4DF77096798917464E36E4B41223A7B7FD1BBCDCFC27B9884",
-        "9623E1AAEB94EF1EF00A25F2166FF608EF444B46F6EC86438AB4A51A5BFA5570"
+        "DCBFE9C9CE985FCB9130F2BD2B8C50C46341AEC8F996D93B8F73C653338B9468"
     ],
     "installer": {
         "file": "vs2019_install.ps1",
