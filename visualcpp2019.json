@@ -27,5 +27,6 @@
     },
     "uninstaller": {
         "script": "start $dir/vsBuildTools.exe uninstall -wait"
+        "args": "$dir"
     }
 }
