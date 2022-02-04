@@ -12,8 +12,8 @@
         "url": "https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/default.aspx"
     },
     "url": [
-        "https://github.com/mike-macmullin/vm-bucket/releases/download/v2.0/vs_BuildTools.exe",
-        "https://github.com/mike-macmullin/vm-bucket/releases/download/v2.0/prod.vsconfig",
+        "https://github.com/mike-macmullin/vm-bucket/releases/download/vs2019/vs_BuildTools.exe",
+        "https://github.com/mike-macmullin/vm-bucket/releases/download/vs2019/prod.vsconfig",
         "https://gist.githubusercontent.com/mike-macmullin/55a456ef8ece9f13e9331a89d77b0001/raw/65aec602460d3d56d8f8eb9f05c9ebcbccf70d13/vs2019_install.ps1"
     ],
     "hash": [
