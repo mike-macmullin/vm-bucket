@@ -20,5 +20,8 @@
     "installer": {
         "file": "unity2020.3.13.ps1",
         "args": "$dir"
+    },
+    "uninstaller": {
+        "script": "start 'c:/Program Files/Unity/Editor/Uninstall.exe /S' -wait",
     }
 }
