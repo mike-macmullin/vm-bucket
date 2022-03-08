@@ -22,7 +22,6 @@
         "bin\\svnlook.exe",
         "bin\\svnmucc.exe",
         "bin\\svn-populate-node-origins-index.exe",
-        "bin\\svnrdump.exe",
         "bin\\svnserve.exe",
         "bin\\svnsync.exe",
         "bin\\svnversion.exe"
