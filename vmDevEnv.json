@@ -1,4 +1,12 @@
 {
   "version": "1.0",
-  "depends": []
+  "depends": ["main/7zip",
+              "main/dark",
+              "main/git",
+              "scoop-installer-java/oraclejre8",
+              "versions/python37",
+              "virtual-marine/sliksvn1.7.22",
+              "virtual-marine/unity2020.3.13",
+              "extras/vcredist",
+              "virtual-marine/visualcpp2019"]
 }
