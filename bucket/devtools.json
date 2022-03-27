@@ -1,6 +1,5 @@
 {
     "version": "1.0",
-    "url": "https://gist.githubusercontent.com/mike-macmullin/f1bbd81bf6e23496cfe7899eec41feab/raw/03be733bef8daddfd85c4528653d2cd0a0ea22db/no-op.cmd",
     "depends": [
         "7zip",
         "dark",
