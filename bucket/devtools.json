@@ -1,9 +1,6 @@
 {
     "version": "1.0",
     "depends": [
-        "7zip",
-        "dark",
-        "git",
         "oraclejre8",
         "python37",
         "sliksvn1.7.22",
