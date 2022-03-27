@@ -4,9 +4,9 @@
         "oraclejre8",
         "python37",
         "vcredist",
-        "vm-bucket/sliksvn1.7.22",
-        "vm-bucket/unity2020.3.13",
-        "vm-bucket/visualcpp2019",
-        "vm-bucket/vsBuildTools2019"
+        "sliksvn1.7.22",
+        "unity2020.3.13",
+        "visualcpp2019",
+        "vsBuildTools2019"
      ]
 }
