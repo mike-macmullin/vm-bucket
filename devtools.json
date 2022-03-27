@@ -1,16 +1,15 @@
 {
-  "version": "1.0",
-  "url": "https://gist.githubusercontent.com/mike-macmullin/f1bbd81bf6e23496cfe7899eec41feab/raw/03be733bef8daddfd85c4528653d2cd0a0ea22db/no-op.cmd",
-  "depends": [
-      "7zip",
-      "dark",
-      "git",
-      "oraclejre8",
-      "python37",
-      "sliksvn1.7.22",
-      "unity2020.3.13",
-      "visualcpp2019",
-      "vcredist"
-  ]
+    "version": "1.0",
+    "url": "https://gist.githubusercontent.com/mike-macmullin/f1bbd81bf6e23496cfe7899eec41feab/raw/03be733bef8daddfd85c4528653d2cd0a0ea22db/no-op.cmd",
+    "depends": [
+        "7zip",
+        "dark",
+        "git",
+        "oraclejre8",
+        "python37",
+        "sliksvn1.7.22",
+        "unity2020.3.13",
+        "visualcpp2019",
+        "vcredist"
+     ]
 }
-
