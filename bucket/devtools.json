@@ -7,5 +7,6 @@
         "vm-bucket/sliksvn1.7.22",
         "vm-bucket/unity2020.3.13",
         "vm-bucket/visualcpp2019",
+        "vm-bucket/vsBuildTools2019"
      ]
 }
