@@ -3,9 +3,9 @@
     "depends": [
         "oraclejre8",
         "python37",
-        "sliksvn1.7.22",
-        "unity2020.3.13",
-        "visualcpp2019",
-        "vcredist"
+        "vcredist",
+        "vm-bucket/sliksvn1.7.22",
+        "vm-bucket/unity2020.3.13",
+        "vm-bucket/visualcpp2019",
      ]
 }
