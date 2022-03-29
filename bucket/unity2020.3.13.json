@@ -19,6 +19,6 @@
         "args": "$dir"
     },
     "uninstaller": {
-        "script": "start 'c:\\Program Files\\Unity\\Editor\\Uninstall.exe /S' -wait",
+        "script": "start 'c:\\Program Files\\Unity\\Editor\\Uninstall.exe /S' -wait"
     }
 }
