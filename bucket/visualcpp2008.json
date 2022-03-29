@@ -1,12 +1,7 @@
 {
-    "_comment": [
-        "The command-line compiler functions of VS 2008 C++.",
-        "",
-        "Version is the version reported by cl.exe"
-    ],
+    "version": "15.00.21022.08",
     "description": "The command-line compiler functions of VS 2008 C++.",
     "homepage": "https://www.visualstudio.com",
-    "version": "15.00.21022.08",
     "license": {
         "identifier": "Freeware",
         "url": "https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/default.aspx"
