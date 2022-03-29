@@ -1,12 +1,7 @@
 {
-    "_comment": [
-        "The command-line compiler functions of VS 2019 C#/C++.",
-        "",
-        "Version is the version reported by cl.exe"
-    ],
+    "version": "19.29.30137",
     "description": "The command-line compiler functions of VS 2019 C#/C++.",
     "homepage": "https://www.visualstudio.com",
-    "version": "19.29.30137",
     "license": {
         "identifier": "Freeware",
         "url": "https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/default.aspx"
