@@ -12,11 +12,10 @@
     ],
     "hash": [
         "77A530FA596E5A51AEA0F29A851266B68F25F01E9184AB0DAAB3F3B448AA96EB",
-        "CDB3569FD03F56629526625FAD3C8DEFC988B281D57B6EDBDA23C01A4F580C01"
+        "35881B394750364227B201610F08392EC6584517DF7667250FE6C9AF43D25B71"
     ],
     "installer": {
-        "file": "unity2020.3.13.ps1",
-        "args": "$dir"
+        "file": "unity2020.3.13.ps1"
     },
     "uninstaller": {
         "script": "start 'c:\\Program Files\\Unity\\Editor\\Uninstall.exe /S' -wait"
