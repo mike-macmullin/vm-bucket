@@ -1,4 +1,4 @@
-# Scoop Bucket Template
+# Virtual Marine Main Bucket
 
 [![Tests](https://github.com/mike-macmullin/vm-bucket/actions/workflows/ci.yml/badge.svg)](https://github.com/<username>/<bucketname>/actions/workflows/ci.yml) [![Excavator](https://github.com/mike-macmullin/vm-bucket/actions/workflows/excavator.yml/badge.svg)](https://github.com/mike-macmullin/vm-bucket/actions/workflows/excavator.yml)
 
